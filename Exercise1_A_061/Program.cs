@@ -67,6 +67,7 @@ namespace Exercise1
                         aisah[i] = temp;
                     }
                 }
+
             }
 
         }
